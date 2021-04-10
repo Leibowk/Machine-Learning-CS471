@@ -1,0 +1,11 @@
+Please make sure your model output (predictions) are saved, added to the git, and committed.
+
+They should be stored in:
+task_1/y_pred.gz
+task_1/err_pred.txt
+task_2/y_pred.gz
+task_2/err_pred.txt
+as described in the READMEs included with the data release.
+
+Include all of your code as well. 
+Store the code used for each task in the separate folders
